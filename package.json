@@ -1,0 +1,24 @@
+{
+  "name": "add-some-number",
+  "version": "1.0.0",
+  "description": "A simple library that adds two numbers.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gentlecat/add-some-number.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [
+    "add",
+    "numbers",
+    "sum"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
